@@ -24,3 +24,4 @@ public class Issuance {
     Date dateDelivery;
 
 }
+
